@@ -1,4 +1,4 @@
-# BachelorVesrions
+# This is my code for my bachelor project - 2016
 
 ##Setup
 1. Download the data from [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge)
