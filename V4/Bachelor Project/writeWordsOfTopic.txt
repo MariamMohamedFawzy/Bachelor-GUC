@@ -1,0 +1,23 @@
+Topics
+Topic # 0
+baristas : 0.033925686 , me. : 0.033925686 , great : 0.017770598 , side, : 0.017770598 , here, : 0.017770598 , it. : 0.017770598 , milk : 0.017770598 , staff : 0.017770598 , feel. : 0.017770598 , totes : 0.017770598 , mall : 0.017770598 , needed! : 0.017770598 , close. : 0.017770598 , carry : 0.017770598 , sb : 0.017770598 , cup : 0.017770598 , miss : 0.017770598 , music, : 0.017770598 , sign : 0.017770598 , times. : 0.017770598 , 
+Topic # 1
+honey : 0.055495102 , love : 0.033732317 , almond : 0.033732317 , starbucks : 0.022850923 , area : 0.022850923 , iced : 0.022850923 , pricey : 0.011969532 , fresh : 0.011969532 , love. : 0.011969532 , literal : 0.011969532 , real-life : 0.011969532 , foodgasm. : 0.011969532 , words: : 0.011969532 , lawd, : 0.011969532 , gift : 0.011969532 , over-priced, : 0.011969532 , trendy, : 0.011969532 , gods. : 0.011969532 , visit : 0.011969532 , 
+Topic # 2
+friendly : 0.05860113 , place : 0.05860113 , nordstrom's : 0.03969754 , cafe : 0.02079395 , never : 0.02079395 , trendy : 0.02079395 , up! : 0.02079395 , sunset : 0.02079395 , refreshing! : 0.02079395 , anytime : 0.02079395 , good : 0.02079395 , minute : 0.02079395 , helpful. : 0.02079395 , quit : 0.02079395 , better. : 0.02079395 , sweet : 0.02079395 , there! : 0.02079395 , expect : 0.02079395 , roasts. : 0.02079395 , great : 0.0018903591 , 
+Topic # 3
+choice : 0.038798496 , drinks : 0.026282853 , bit : 0.026282853 , cheaper : 0.026282853 , long : 0.026282853 , lines! : 0.026282853 , worth : 0.026282853 , stop. : 0.026282853 , today's : 0.026282853 , bomb! : 0.026282853 , orange : 0.026282853 , cream! : 0.026282853 , sbux : 0.026282853 , creme : 0.013767209 , somethin' : 0.013767209 , buying : 0.013767209 , beverage. : 0.013767209 , favorite : 0.013767209 , drinker, : 0.013767209 , java : 0.013767209 , 
+Topic # 4
+love : 0.021233568 , mall, : 0.021233568 , place : 0.021233568 , pricey : 0.011122346 , pleasant! : 0.011122346 , order : 0.011122346 , food : 0.011122346 , almond : 0.011122346 , fashion : 0.011122346 , seating : 0.011122346 , latte : 0.011122346 , visiting : 0.011122346 , it! : 0.011122346 , latté : 0.011122346 , tasty! : 0.011122346 , hundred : 0.011122346 , setting. : 0.011122346 , piano : 0.011122346 , good : 0.011122346 , 
+Topic # 5
+great : 0.033386324 , iced : 0.033386324 , good! : 0.033386324 , prices : 0.033386324 , mall. : 0.033386324 , love : 0.017488075 , ebar! : 0.017488075 , cali : 0.017488075 , nevada....they : 0.017488075 , coffees, : 0.017488075 , teas, : 0.017488075 , occasionally : 0.017488075 , vanilla : 0.017488075 , somethin'.....this : 0.017488075 , place : 0.017488075 , show. : 0.017488075 , clean : 0.017488075 , amazingly : 0.017488075 , yelp. : 0.017488075 , drive : 0.017488075 , 
+Topic # 6
+coffee : 0.06847254 , inside : 0.015801355 , staff : 0.015801355 , latte. : 0.0082769 , amazing! : 0.0082769 , break : 0.0082769 , hell : 0.0082769 , delicious : 0.0082769 , lil : 0.0082769 , latte : 0.0082769 , music : 0.0082769 , starbucks, : 0.0082769 , worth : 0.0082769 , recommendations : 0.0082769 , americano : 0.0082769 , nice : 0.0082769 , nordstrom's! : 0.0082769 , located : 0.0082769 , 
+Topic # 7
+starbucks : 0.03448276 , tea : 0.03448276 , best : 0.03448276 , bar : 0.03448276 , soy : 0.023359288 , drinks : 0.023359288 , good : 0.023359288 , too. : 0.023359288 , inside : 0.0122358175 , fashion : 0.0122358175 , nordstrom's : 0.0122358175 , drinks! : 0.0122358175 , soda. : 0.0122358175 , choice : 0.0122358175 , ginger : 0.0122358175 , times... : 0.0122358175 , card, : 0.0122358175 , prefer : 0.0122358175 , style : 0.0122358175 , 
+Topic # 8
+food : 0.019332161 , delicious! : 0.019332161 , stevia : 0.019332161 , never : 0.019332161 , seating : 0.019332161 , wouldn't?) : 0.019332161 , time : 0.019332161 , peach : 0.019332161 , sweetener : 0.019332161 , norstrom : 0.019332161 , nice. : 0.019332161 , (right : 0.019332161 , perfect! : 0.019332161 , sure! : 0.019332161 , best : 0.019332161 , well : 0.019332161 , oiled : 0.019332161 , machine. : 0.019332161 , delight : 0.019332161 , 
+Topic # 9
+know : 0.038961034 , back : 0.038961034 , coffee, : 0.020408163 , while, : 0.020408163 , coffee. : 0.020408163 , time : 0.020408163 , true : 0.020408163 , say, : 0.020408163 , divine. : 0.020408163 , avid : 0.020408163 , check : 0.020408163 , sooner. : 0.020408163 , mind : 0.020408163 , coffee!! : 0.020408163 , thing : 0.020408163 , time. : 0.020408163 , floor : 0.020408163 , starbucks. : 0.020408163 , luxor, : 0.020408163 , 
+
+

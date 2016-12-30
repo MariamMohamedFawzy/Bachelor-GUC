@@ -1,0 +1,5 @@
+Ranked businesses of topic # 5
+0 - id : qOVxqcEobLm6LV206KphIw, name : Ebar, value : 0.41684491746127605
+1 - id : _GduVeJd3dK0t_vcLHVV7Q, name : Starbucks Atrium, value : 0.08582621440291405
+2 - id : 9wy7IaF95CkyYXjavlfglA, name : In House, value : 0.1022286843508482
+3 - id : 5VdDAYDLYb0WdqbaoPs_WQ, name : Ebar, value : 0.029999999329447746

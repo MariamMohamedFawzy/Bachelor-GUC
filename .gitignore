@@ -1,0 +1,40 @@
+V1/Bachelor Project/src/reviews/*
+V1/Bachelor Project/bin/*
+V1/Bachelor Project/src/yelp_academic_dataset_business.json
+V1/.metadata/*
+V1/Bachelor Project/lib/*
+V1/Bachelor Project/data/LdaResults/*
+V1/backup.sql
+V1/.recommenders/*
+V1/Bachelor Project/eval/*
+V2/Bachelor Project/src/reviews/*
+V2/Bachelor Project/bin/*
+V2/Bachelor Project/src/yelp_academic_dataset_business.json
+V2/.metadata/*
+V2/Bachelor Project/lib/*
+V2/Bachelor Project/data/LdaResults/*
+V2/.recommenders/*
+V2/Bachelor Project/eval/*
+V3/Bachelor Project/src/reviews/*
+V3/Bachelor Project/bin/*
+V3/Bachelor Project/src/yelp_academic_dataset_business.json
+V3/.recommenders/*
+V3/.metadata/*
+V3/Bachelor Project/eval/*
+V3/Bachelor Project/lib/*
+V3/Bachelor Project/data/LdaResults/*
+V4/Bachelor Project/lib/*
+V4/Bachelor Project/data/LdaResults/*
+V4/.recommenders/*
+V4/.metadata/*
+V4/Bachelor Project/src/reviews/*
+V4/Bachelor Project/bin/*
+V4/Bachelor Project/src/yelp_academic_dataset_business.json
+V4/Bachelor Project/eval/*
+Evaluation/.metadata/*
+Evaluation/.recommenders/*
+Evaluation/Evaluation/bin/*
+packfile
+
+
+
