@@ -5,12 +5,107 @@
 2. Put the businesses file in the src directory with name : yelp_academic_dataset_business.json
 3. split the reviews json file into files : xaa, xab, xac, xad, xae, xaf, xag, xah, xai, xaj, xak, xal and xan.
 4. put the reviews files into reviews folder in the src directory.
-5. Add the jars in the lib folder.
+5. Add the libraries as in the libraries section.
 6. Write true instead of false in start.txt file in startProject folder.
 7. Create a database with the name: BachelorDB.
 8. Modify the database connections in the file : hibernate.cfg.xml in the src directory.
 
+## Libraries
+
+### Libraries for version 1 :
+
+antlr-2.7.7.jar					hibernate-core-5.2.4.Final.jar			jboss-marshalling-osgi-1.4.10.Final.jar		org.osgi.compendium-4.3.1.jar
+apache-commons 2.jar				hibernate-ehcache-5.2.4.Final.jar		jboss-transaction-api_1.1_spec-1.0.1.Final.jar	org.osgi.core-4.3.1.jar
+c3p0-0.9.2.1.jar				hibernate-envers-5.2.4.Final.jar		jgroups-3.6.7.Final.jar				pdf.jar
+cdi-api-1.1.jar					hibernate-infinispan-5.2.4.Final-tests.jar	jna-4.1.0.jar					postgresql-9.4-1200-jdbc41.jar
+cglib-2.2.jar					hibernate-infinispan-5.2.4.Final.jar		jna-platform-4.1.0.jar				proxool-0.8.3.jar
+cglib-2.2.jar.zip				hibernate-jpa-2.1-api-1.0.0.Final.jar		jsoup-1.7.2.jar					slf4j-api-1.7.21.jar
+classmate-1.3.0.jar				hibernate-jpamodelgen-5.2.4.Final.jar		jsr250-api-1.0.jar				slf4j-api-1.7.7.jar
+core.jar					hibernate-osgi-5.2.4.Final-karaf.xml		jts-1.13.jar					slf4j-simple-1.7.21.jar
+cue.language.jar				hibernate-osgi-5.2.4.Final.jar			junit-4.8.2.jar					slf4j-simple-1.7.7.jar
+dom4j-1.6.1.jar					hibernate-proxool-5.2.4.Final.jar		junit-dep-4.8.2.jar				stanford-corenlp-3.6.0-models.jar
+dom4j.jar					hibernate-spatial-5.2.4.Final.jar		jxmaps-1.1.jar					stanford-corenlp-3.6.0-sources.jar
+ehcache-2.10.3.jar				infinispan-commons-8.2.3.Final.jar		jxmaps-linux32-1.1.jar				stanford-corenlp-3.6.0.jar
+el-api-2.2.jar					infinispan-core-8.2.3.Final.jar			jxmaps-linux64-1.1.jar				synthetica.jar
+geolatte-geom-1.0.6.jar				itext.jar					jxmaps-mac-1.1.jar				syntheticaAluOxide.jar
+geronimo-jta_1.1_spec-1.1.1.jar			jandex-2.0.0.Final.jar				jxmaps-win-1.1.jar				syntheticaBlackEye.jar
+glazedlists_java15-1.9.1.jar			javassist-3.20.0-GA.jar				license.jar					syntheticaBlueLight.jar
+gson-2.2.2.jar					javassist.jar					log4j-1.2.17.jar				waffle-jna-1.7.jar
+guava-18.0.jar					javax.inject-1.jar				mchange-commons-java-0.2.3.4.jar		xalan.jar
+hibernate-c3p0-5.2.4.Final.jar			jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar	mockito-all-1.8.5.jar
+hibernate-commons-annotations-5.0.1.Final.jar	jboss-logging-3.3.0.Final.jar			mysql-connector-java-5.1.40-bin.jar
+
+### Libraries used in version 2 :
+
+antlr-2.7.7.jar					hibernate-core-5.2.4.Final.jar			jboss-marshalling-osgi-1.4.10.Final.jar		opennlp-tools-1.6.0.jar
+apache-commons 2.jar				hibernate-ehcache-5.2.4.Final.jar		jboss-transaction-api_1.1_spec-1.0.1.Final.jar	opennlp-uima-1.6.0.jar
+c3p0-0.9.2.1.jar				hibernate-envers-5.2.4.Final.jar		jgroups-3.6.7.Final.jar				org.osgi.compendium-4.3.1.jar
+cdi-api-1.1.jar					hibernate-infinispan-5.2.4.Final-tests.jar	jna-4.1.0.jar					org.osgi.core-4.3.1.jar
+cglib-2.2.jar					hibernate-infinispan-5.2.4.Final.jar		jna-platform-4.1.0.jar				pdf.jar
+cglib-2.2.jar.zip				hibernate-jpa-2.1-api-1.0.0.Final.jar		jsoup-1.7.2.jar					postgresql-9.4-1200-jdbc41.jar
+classmate-1.3.0.jar				hibernate-jpamodelgen-5.2.4.Final.jar		jsr250-api-1.0.jar				proxool-0.8.3.jar
+core.jar					hibernate-osgi-5.2.4.Final-karaf.xml		jts-1.13.jar					slf4j-api-1.7.21.jar
+cue.language.jar				hibernate-osgi-5.2.4.Final.jar			junit-4.8.2.jar					slf4j-api-1.7.7.jar
+dom4j-1.6.1.jar					hibernate-proxool-5.2.4.Final.jar		junit-dep-4.8.2.jar				slf4j-simple-1.7.21.jar
+dom4j.jar					hibernate-spatial-5.2.4.Final.jar		jxmaps-1.1.jar					slf4j-simple-1.7.7.jar
+ehcache-2.10.3.jar				infinispan-commons-8.2.3.Final.jar		jxmaps-linux32-1.1.jar				stanford-corenlp-3.6.0-models.jar
+el-api-2.2.jar					infinispan-core-8.2.3.Final.jar			jxmaps-linux64-1.1.jar				stanford-corenlp-3.6.0-sources.jar
+geolatte-geom-1.0.6.jar				itext.jar					jxmaps-mac-1.1.jar				stanford-corenlp-3.6.0.jar
+geronimo-jta_1.1_spec-1.1.1.jar			jandex-2.0.0.Final.jar				jxmaps-win-1.1.jar				synthetica.jar
+glazedlists_java15-1.9.1.jar			javassist-3.20.0-GA.jar				license.jar					syntheticaAluOxide.jar
+gson-2.2.2.jar					javassist.jar					log4j-1.2.17.jar				syntheticaBlackEye.jar
+guava-18.0.jar					javax.inject-1.jar				mchange-commons-java-0.2.3.4.jar		syntheticaBlueLight.jar
+hibernate-c3p0-5.2.4.Final.jar			jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar	mockito-all-1.8.5.jar				waffle-jna-1.7.jar
+hibernate-commons-annotations-5.0.1.Final.jar	jboss-logging-3.3.0.Final.jar			mysql-connector-java-5.1.40-bin.jar		xalan.jar
+
+### Libraries used in version 3 :
+
+antlr-2.7.7.jar					hibernate-core-5.2.4.Final.jar			jboss-marshalling-osgi-1.4.10.Final.jar		org.osgi.compendium-4.3.1.jar
+apache-commons 2.jar				hibernate-ehcache-5.2.4.Final.jar		jboss-transaction-api_1.1_spec-1.0.1.Final.jar	org.osgi.core-4.3.1.jar
+c3p0-0.9.2.1.jar				hibernate-envers-5.2.4.Final.jar		jgroups-3.6.7.Final.jar				pdf.jar
+cdi-api-1.1.jar					hibernate-infinispan-5.2.4.Final-tests.jar	jna-4.1.0.jar					postgresql-9.4-1200-jdbc41.jar
+cglib-2.2.jar					hibernate-infinispan-5.2.4.Final.jar		jna-platform-4.1.0.jar				proxool-0.8.3.jar
+cglib-2.2.jar.zip				hibernate-jpa-2.1-api-1.0.0.Final.jar		jsoup-1.7.2.jar					slf4j-api-1.7.21.jar
+classmate-1.3.0.jar				hibernate-jpamodelgen-5.2.4.Final.jar		jsr250-api-1.0.jar				slf4j-api-1.7.7.jar
+core.jar					hibernate-osgi-5.2.4.Final-karaf.xml		jts-1.13.jar					slf4j-simple-1.7.21.jar
+cue.language.jar				hibernate-osgi-5.2.4.Final.jar			junit-4.8.2.jar					slf4j-simple-1.7.7.jar
+dom4j-1.6.1.jar					hibernate-proxool-5.2.4.Final.jar		junit-dep-4.8.2.jar				stanford-corenlp-3.6.0-models.jar
+dom4j.jar					hibernate-spatial-5.2.4.Final.jar		jxmaps-1.1.jar					stanford-corenlp-3.6.0-sources.jar
+ehcache-2.10.3.jar				infinispan-commons-8.2.3.Final.jar		jxmaps-linux32-1.1.jar				stanford-corenlp-3.6.0.jar
+el-api-2.2.jar					infinispan-core-8.2.3.Final.jar			jxmaps-linux64-1.1.jar				synthetica.jar
+geolatte-geom-1.0.6.jar				itext.jar					jxmaps-mac-1.1.jar				syntheticaAluOxide.jar
+geronimo-jta_1.1_spec-1.1.1.jar			jandex-2.0.0.Final.jar				jxmaps-win-1.1.jar				syntheticaBlackEye.jar
+glazedlists_java15-1.9.1.jar			javassist-3.20.0-GA.jar				license.jar					syntheticaBlueLight.jar
+gson-2.2.2.jar					javassist.jar					log4j-1.2.17.jar				waffle-jna-1.7.jar
+guava-18.0.jar					javax.inject-1.jar				mchange-commons-java-0.2.3.4.jar		xalan.jar
+hibernate-c3p0-5.2.4.Final.jar			jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar	mockito-all-1.8.5.jar
+hibernate-commons-annotations-5.0.1.Final.jar	jboss-logging-3.3.0.Final.jar			mysql-connector-java-5.1.40-bin.jar
+
+### Libraries used in version 4 :
+
+antlr-2.7.7.jar					hibernate-core-5.2.4.Final.jar			jboss-marshalling-osgi-1.4.10.Final.jar		opennlp-tools-1.6.0.jar
+apache-commons 2.jar				hibernate-ehcache-5.2.4.Final.jar		jboss-transaction-api_1.1_spec-1.0.1.Final.jar	opennlp-uima-1.6.0.jar
+c3p0-0.9.2.1.jar				hibernate-envers-5.2.4.Final.jar		jgroups-3.6.7.Final.jar				org.osgi.compendium-4.3.1.jar
+cdi-api-1.1.jar					hibernate-infinispan-5.2.4.Final-tests.jar	jna-4.1.0.jar					org.osgi.core-4.3.1.jar
+cglib-2.2.jar					hibernate-infinispan-5.2.4.Final.jar		jna-platform-4.1.0.jar				pdf.jar
+cglib-2.2.jar.zip				hibernate-jpa-2.1-api-1.0.0.Final.jar		jsoup-1.7.2.jar					postgresql-9.4-1200-jdbc41.jar
+classmate-1.3.0.jar				hibernate-jpamodelgen-5.2.4.Final.jar		jsr250-api-1.0.jar				proxool-0.8.3.jar
+core.jar					hibernate-osgi-5.2.4.Final-karaf.xml		jts-1.13.jar					slf4j-api-1.7.21.jar
+cue.language.jar				hibernate-osgi-5.2.4.Final.jar			junit-4.8.2.jar					slf4j-api-1.7.7.jar
+dom4j-1.6.1.jar					hibernate-proxool-5.2.4.Final.jar		junit-dep-4.8.2.jar				slf4j-simple-1.7.21.jar
+dom4j.jar					hibernate-spatial-5.2.4.Final.jar		jxmaps-1.1.jar					slf4j-simple-1.7.7.jar
+ehcache-2.10.3.jar				infinispan-commons-8.2.3.Final.jar		jxmaps-linux32-1.1.jar				stanford-corenlp-3.6.0-models.jar
+el-api-2.2.jar					infinispan-core-8.2.3.Final.jar			jxmaps-linux64-1.1.jar				stanford-corenlp-3.6.0-sources.jar
+geolatte-geom-1.0.6.jar				itext.jar					jxmaps-mac-1.1.jar				stanford-corenlp-3.6.0.jar
+geronimo-jta_1.1_spec-1.1.1.jar			jandex-2.0.0.Final.jar				jxmaps-win-1.1.jar				synthetica.jar
+glazedlists_java15-1.9.1.jar			javassist-3.20.0-GA.jar				license.jar					syntheticaAluOxide.jar
+gson-2.2.2.jar					javassist.jar					log4j-1.2.17.jar				syntheticaBlackEye.jar
+guava-18.0.jar					javax.inject-1.jar				mchange-commons-java-0.2.3.4.jar		syntheticaBlueLight.jar
+hibernate-c3p0-5.2.4.Final.jar			jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar	mockito-all-1.8.5.jar				waffle-jna-1.7.jar
+hibernate-commons-annotations-5.0.1.Final.jar	jboss-logging-3.3.0.Final.jar			mysql-connector-java-5.1.40-bin.jar		xalan.jar
+
 ##Database tables:
+
 ###Reviews table
 ```
 CREATE TABLE `review` (
