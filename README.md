@@ -10,6 +10,10 @@
 7. Create a database with the name: BachelorDB.
 8. Modify the database connections in the file : hibernate.cfg.xml in the src directory.
 
+##Evaluation
+For evaluating the project, please copy the eval folder in each version directory into the folder with the same name in the Evaluation folder project.
+We usulaly test v1 vs v2 and v3 vs v4. You can modify which versions to compare in Main.java in the Evaluation project.
+
 ## Libraries
 
 ### Libraries for version 1 :
